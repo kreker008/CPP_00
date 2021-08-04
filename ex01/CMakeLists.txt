@@ -7,7 +7,5 @@ include_directories(.)
 
 add_executable(ex01
         Contact.cpp
-        Contact.hpp
         main.cpp
-        PhoneBook.cpp
-        PhoneBook.hpp)
+        PhoneBook.cpp)

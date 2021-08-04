@@ -16,7 +16,6 @@ public:
 	void 		set_nickname(std::string&);
 	void  		set_phone_number(std::string&);
 	void 		set_darkest_secret(std::string&);
-
 private:
 	std::string	first_name;
 	std::string	last_name;

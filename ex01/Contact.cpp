@@ -32,20 +32,20 @@ void Contact::set_first_name(std::string& value)
 
 void Contact::set_last_name(std::string& value)
 {
-	this->first_name = value;
+	this->last_name = value;
 }
 
 void Contact::set_nickname(std::string& value)
 {
-	this->first_name = value;
+	this->nickname = value;
 }
 
 void Contact::set_phone_number(std::string& value)
 {
-	this->first_name = value;
+	this->phone_number = value;
 }
 
 void Contact::set_darkest_secret(std::string& value)
 {
-	this->first_name = value;
+	this->darkest_secret = value;
 }
