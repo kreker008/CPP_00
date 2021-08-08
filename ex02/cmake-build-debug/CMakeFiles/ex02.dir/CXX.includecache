@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rsarah/CLionProjects/cpp_00/ex02/Account.cpp
+Account.hpp
+/Users/rsarah/CLionProjects/cpp_00/ex02/Account.hpp
+iostream
+/Users/rsarah/CLionProjects/cpp_00/ex02/iostream
+
+/Users/rsarah/CLionProjects/cpp_00/ex02/Account.hpp
+
+/Users/rsarah/CLionProjects/cpp_00/ex02/tests.cpp
+vector
+-
+algorithm
+-
+functional
+-
+Account.hpp
+/Users/rsarah/CLionProjects/cpp_00/ex02/Account.hpp
+
